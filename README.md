@@ -1,7 +1,11 @@
 # Deep Word -rnn-Tensorflow
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Build Status](https://travis-ci.org/hunkim/word-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/hunkim/word-rnn-tensorflow)
+
+
 # word-rnn-tensorflow
-[![Build Status](https://github.com/sgmoorthy/Deepword-rnn-tensorflow)]
+[![Build Status](https://travis-ci.org/hunkim/word-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/hunkim/word-rnn-tensorflow)
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.
 LSTM Long short-term memory [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) units (or blocks) are a building unit for layers of a recurrent neural network [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network)
@@ -37,3 +41,4 @@ python sample.py --pick 2 --width 4 -n 100
 
 
 
+# Deepword-rnn-tensorflow
