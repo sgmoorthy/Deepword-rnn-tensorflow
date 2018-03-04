@@ -40,7 +40,7 @@ python sample.py --pick 2 --width 4 -n 100
 ```
 
 
-#Tensorflow commands
+# Tensorflow commands
 ```bash
 source activate tensorflow
 #to deactivate tensorflow
